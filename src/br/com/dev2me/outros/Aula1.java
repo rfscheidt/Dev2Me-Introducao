@@ -1,4 +1,4 @@
-package br.com.dev2me;
+package br.com.dev2me.outros;
 
 import java.util.Arrays;
 import java.util.List;
