@@ -1,6 +1,6 @@
 # AULAS DE INTRODUÇÃO DO CURSO FULLSTACK DEV2ME
 
-Exercícios praticados nas aulas
+Exercícios praticados nas aulas (https://github.com/rfscheidt/Dev2Me-Introducao/tree/main/src/br/com/dev2me/aula2)
 
 ## Ex1
 
